@@ -1,5 +1,8 @@
+v3
+    - Updated to Magisk Module Template 17000
+    - Support for Defender Mobile Master gamepad connected via Bluetooth
 v2
-	- Updated to Magisk Module Template v4
+    - Updated to Magisk Module Template v4
 v1
     - Initial release
     - Support for Xbox 360 Controllers connected via OTG
